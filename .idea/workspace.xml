@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73d2912a-fa80-4bb8-a838-58e31b03752c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.3/libexec" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="userSettingsFile" value="/usr/local/Cellar/maven/3.6.3/libexec/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZDP9kD0Q3kSL45toU2GqT96G9q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.soc.gen.auth.data.processing" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/PovertyEstimates/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SparkAuthDataAnalyzerApp">
+    <configuration name="AuthDataAnalyser" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.soc.gen.auth.data.processing.AuthDataAnalyser" />
+      <module name="AuthDataAnalyticsScala" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soc.gen.auth.data.processing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkAuthDataAnalyzerApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.soc.gen.auth.data.processing.SparkAuthDataAnalyzerApp" />
+      <module name="poverty-estimates" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soc.gen.auth.data.processing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparkPovertyEstimatorApp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.soc.gen.auth.data.processing.SparkPovertyEstimatorApp" />
+      <module name="poverty-estimates" />
+      <shortenClasspath name="MANIFEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.soc.gen.auth.data.processing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AuthDataAnalyser" />
+      <item itemvalue="Application.SparkPovertyEstimatorApp" />
+      <item itemvalue="Application.SparkAuthDataAnalyzerApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SparkAuthDataAnalyzerApp" />
+        <item itemvalue="Application.AuthDataAnalyser" />
+        <item itemvalue="Application.SparkPovertyEstimatorApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="SparkPrograms" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="sparkprograms [file:/Users/masharma/IdeaProjects/Geocoder/pipelines/SparkPrograms/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="poverty-auth-estimates [file:/Users/masharma/IdeaProjects/Geocoder/pipelines/SparkPrograms/]" />
+                <option name="path" value="$PROJECT_DIR$/PovertyAndAuthDtaAnalyzer" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="SparkPrograms-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="2427016134" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../opensearch" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../os-osom" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../ndshdlm-compiler" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73d2912a-fa80-4bb8-a838-58e31b03752c" name="Default Changelist" comment="" />
+      <created>1584370541886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584370541886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="172" key="#Project_Structure" timestamp="1584427019880">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="440" y="172" key="#Project_Structure/0.23.1680.966@0.23.1680.966" timestamp="1584427019880" />
+    <state x="440" y="172" key="#Project_Structure/0.23.1680.967@0.23.1680.967" timestamp="1584374639811" />
+    <state x="524" y="183" key="#SparkDriver" timestamp="1584427463052">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="524" y="183" key="#SparkDriver/0.23.1680.966@0.23.1680.966" timestamp="1584427463052" />
+    <state x="578" y="268" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1584431051561">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="578" y="268" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1680.966@0.23.1680.966" timestamp="1584431051561" />
+    <state x="304" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584428107635">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="304" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.966@0.23.1680.966" timestamp="1584428107635" />
+    <state width="1638" height="383" key="GridCell.Tab.0.bottom" timestamp="1584432982581">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state width="1638" height="383" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1584432982581" />
+    <state width="1638" height="383" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1584414810929" />
+    <state width="1638" height="383" key="GridCell.Tab.0.center" timestamp="1584432982581">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state width="1638" height="383" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1584432982581" />
+    <state width="1638" height="383" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1584414810928" />
+    <state width="1638" height="383" key="GridCell.Tab.0.left" timestamp="1584432982580">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state width="1638" height="383" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1584432982580" />
+    <state width="1638" height="383" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1584414810928" />
+    <state width="1638" height="383" key="GridCell.Tab.0.right" timestamp="1584432982581">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state width="1638" height="383" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1584432982581" />
+    <state width="1638" height="383" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1584414810929" />
+    <state x="349" y="145" key="SettingsEditor" timestamp="1584371819574">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="349" y="145" key="SettingsEditor/0.23.1680.967@0.23.1680.967" timestamp="1584371819574" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1584373747949">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1680.967@0.23.1680.967" timestamp="1584373747949" />
+    <state x="234" y="233" key="new project wizard" timestamp="1584427143448">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="234" y="233" key="new project wizard/0.23.1680.966@0.23.1680.966" timestamp="1584427143448" />
+    <state x="234" y="233" key="new project wizard/0.23.1680.967@0.23.1680.967" timestamp="1584371331425" />
+  </component>
+</project>
